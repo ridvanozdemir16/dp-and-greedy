@@ -1,2 +1,1 @@
-# dp-and-greedy
-17.05.2020
+Analysis of dynamic programming and greedy approach for some scenerios, and calculation of Big-O notations.
